@@ -1,0 +1,5 @@
+[27-Jul-2025 17:40:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function MVC\noExiste() in /home/angel/developer/Desarrollo-web-completo/DevWebCamp/DevWebCamp_inicio/Router.php:35
+Stack trace:
+#0 /home/angel/developer/Desarrollo-web-completo/DevWebCamp/DevWebCamp_inicio/public/index.php(98): MVC\Router->comprobarRutas()
+#1 {main}
+  thrown in /home/angel/developer/Desarrollo-web-completo/DevWebCamp/DevWebCamp_inicio/Router.php on line 35
